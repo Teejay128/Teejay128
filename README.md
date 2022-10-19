@@ -15,7 +15,7 @@ Joined Github in **2022**.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, Mongodb, Javascript, HTML & CSS, etc.
+- 🛠 &nbsp; I’m currently working with the MEN(MongoDB, Express, Node.js) stack Because that's what real "men" do 💪.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: emperortj128@gmail.com.
 
@@ -37,7 +37,8 @@ Joined Github in **2022**.
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
 
-
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Teejay128&show_icons=true&include_all_commits=true&hide_border=true" alt="My GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teejay128&langs_count=8&layout=compact&hide_border=true" alt="My GitHub stats" /> |
+| ------------- | ------------- |
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
