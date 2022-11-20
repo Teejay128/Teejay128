@@ -15,7 +15,7 @@ Joined Github in **2022**.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with the MEN(MongoDB, Express, Node.js) stack Because that's what real "men" do 💪.
+- 🛠 &nbsp; I’m currently working with the MERN stack(MongoDB, Express, React, Node.js).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: emperortj128@gmail.com.
 
