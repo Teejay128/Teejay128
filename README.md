@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Joseph Taiwo!](https://github.com/Teejay128/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-taiwo-442a10233/)
-[![Stack overflow Badge](https://img.shields.io/badge/Stacko=Overflow-3b5998?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19999517/joseph-taiwo)
+[![Stack overflow Badge](https://img.shields.io/badge/StackOverflow-3b5998?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19999517/joseph-taiwo)
 [![Dev.to Badge](https://img.shields.io/badge/Dev.to-3b5998?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/teejay128)
 
 ### Glad to see you here!
