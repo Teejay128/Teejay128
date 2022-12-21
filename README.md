@@ -8,19 +8,19 @@
 
 ### About me
 
-- Backend developer 💻 and Technical Writer ✍️.
+- Backend developer 💻 and Technical Writer ✍️
 
-- Lagos, Nigeria 🏠.
+- Lagos, Nigeria 🏠
 
-- I’m currently working with the MEN (MongoDB, Express, Node.js) stack, because that's what real men do 💪.
+- I’m currently working with the MEN stack (MongoDB, Express, Node.js), because that's what real men do 💪
 
 - Looking to expand my knowledge and gain hands-on experience 🤙
 
-- Open to collaborations and contributions 😉.
+- Open to collaborations and contributions 😉
 
-- Check out my blogs on [DEV](https://dev.to/teejay128) and [Hashnode](https://hashnode.com/@Teejay128)
+- Check out my blogs on [DEV](https://dev.to/teejay128), [Hashnode](https://hashnode.com/@Teejay128) and [Medium](https://medium.com/@teejay128) 📘
 
-- Joined Github in **2022**.
+- Joined Github in **2022** 🔰
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
@@ -54,4 +54,4 @@
 | ------------- | ------------- |
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring ⭐ some of the repositories!
