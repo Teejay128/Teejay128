@@ -6,6 +6,9 @@
 
 ## Glad to see you here!
 
+<img height="360" width="1080" src="./assets/helloWorld.gif" />
+
+
 ### About me
 
 - Backend developer 💻 and Technical Writer ✍️
@@ -21,9 +24,6 @@
 - Check out my blogs on [DEV](https://dev.to/teejay128), [Hashnode](https://hashnode.com/@Teejay128) and [Medium](https://medium.com/@teejay128) 📘
 
 - Joined Github in **2022** 🔰
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
 
 ### Languages and Tools:
 
