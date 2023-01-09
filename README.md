@@ -6,9 +6,6 @@
 
 ## Glad to see you here!
 
-<img height="360" width="1080" src="./assets/helloWorld.gif" />
-
-
 ### About me
 
 - Backend developer 💻 and Technical Writer ✍️
