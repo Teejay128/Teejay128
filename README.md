@@ -6,21 +6,23 @@
 
 ## Glad to see you here!
 
-### I...
+### About me
 
-- Am a Backend developer 💻 and Technical Writer ✍️
+- I am a Backend developer 💻 and Technical Writer ✍️
 
-- Live in Lagos, Nigeria 🏠
+- I live in Lagos, Nigeria 🏠
 
-- Work with the MEN stack (MongoDB, Express, Node.js), because that's what real men do 💪
+- I work with the MEN stack (MongoDB, Express, Node.js), because that's what real men do 💪
 
-- Want to expand my knowledge and gain hands-on experience 🤙
+- I want to expand my knowledge and gain hands-on experience 🤙
 
-- Open to collaborations and contributions 😉
+- I am open to collaborations and contributions 😉
 
-- Write on my blogs on [DEV](https://dev.to/teejay128), [Hashnode](https://hashnode.com/@Teejay128) and [Medium](https://medium.com/@teejay128) 📘
+- I write on [DEV](https://dev.to/teejay128), [Hashnode](https://hashnode.com/@Teejay128) and [Medium](https://medium.com/@teejay128) 📘
 
-- Joined Github in **2022** 🔰
+- I am looking for a junior backend developer or technical writing role
+
+- I Joined Github in April **2022** 🔰
 
 ### Languages and Tools:
 
