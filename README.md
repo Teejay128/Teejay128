@@ -12,7 +12,7 @@
 
 - I live in Lagos, Nigeria 🏠
 
-- I work with the MEN stack (MongoDB, Express, Node.js), because that's what real men do 💪
+- I work with the MERN stack (MongoDB, Express, React, Node.js) 💪
 
 - I want to expand my knowledge and gain hands-on experience 🤙
 
